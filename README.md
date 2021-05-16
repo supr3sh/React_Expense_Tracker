@@ -1,3 +1,7 @@
+# Screenshot
+
+![alt text](https://github.com/supr3sh/React_Expense_Tracker/blob/main/images/ss.JPG?raw=true)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
